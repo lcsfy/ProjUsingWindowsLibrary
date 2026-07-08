@@ -8,7 +8,7 @@
     "UiPath.System.Activities": "[23.4.2]",
     "UiPath.Testing.Activities": "[23.4.0]",
     "UiPath.UIAutomation.Activities": "[23.4.4]",
-    "WinLibraryTest": "[1.0.1]"
+    "WinLibraryTest": "[1.0.139925117]"
   },
   "webServices": [],
   "entitiesStores": [],
